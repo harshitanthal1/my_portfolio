@@ -1,0 +1,16 @@
+nav {
+    background-color: darkgrey;
+    color: white;
+    padding: 10px;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

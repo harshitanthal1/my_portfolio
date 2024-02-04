@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: darkgrey;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

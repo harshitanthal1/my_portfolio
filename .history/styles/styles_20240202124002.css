@@ -1,0 +1,9 @@
+nav {
+    background-color: darkgrey;
+    color: white;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}

@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: darkgrey;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#nav-item {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#profile {
+    padding: 10px;
+    width: 350px;
+    text-align: justify;
+}
+
+img {
+    border-radius: 50%;
+}
+
+main {
+    display: flex;
+    width:98%;
+    margin-left: 1%;
+}
+
+.sub-box {
+    width: 30%;
+}
